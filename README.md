@@ -1,7 +1,7 @@
 # 💻 My Cybersecurity Lab Project
 
 ## 🔗 Project Website  
-Check out the live demo here: [Tyrone’s Cyber Lab](https://tyrone.studio)
+Check out the live demo here: [Tyrone’s Cyber Lab](https://https://cyberlab.tyrones.codes/)
 
 ---
 
